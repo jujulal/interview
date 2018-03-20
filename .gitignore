@@ -1,4 +1,5 @@
 
-./.idea
+.idea
 interview_resource.iml
-./out
+/out
+*.class
